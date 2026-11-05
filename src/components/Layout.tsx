@@ -102,7 +102,7 @@ export default function Layout() {
           href: "#",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/download-cloud-storage-back-up_53876-122800.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/download-cloud-storage-back-up_53876-122800.jpg?_wi=2"
     />
       </SectionErrorBoundary>
     </StyleProvider>
