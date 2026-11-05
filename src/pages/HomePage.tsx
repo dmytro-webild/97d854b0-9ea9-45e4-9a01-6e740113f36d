@@ -107,7 +107,7 @@ export default function HomePage() {
             text: "Voir détails",
             href: "#",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/download-cloud-storage-back-up_53876-122800.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/download-cloud-storage-back-up_53876-122800.jpg?_wi=1",
         },
         {
           tag: "Accompagnement",
